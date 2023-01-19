@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    box-shadow: -2px 6px 19px 0px rgba(10,9,9,0.53);
+    align-items: center;
+    position: sticky;
+    top:0;
+    z-index:999;
+    background-color: white;
+
+}
+.word{
+    justify-content: center;
+}

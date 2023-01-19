@@ -1,0 +1,80 @@
+.btnContainer2 {
+  display: flex;
+  max-width: 100%;
+  height: 1rem;
+  margin-left: 4.3rem;
+}
+.clicked {
+  text-decoration: underline 5px rgb(85 185 179);
+  cursor: pointer;
+  height: fit-content;
+  display: flex;
+  font-size: 13px;
+  width: fit-content;
+  text-align: center;
+  margin: 0rem 0.5rem;
+  color: rgb(85 185 179);
+}
+.btn {
+  cursor: pointer;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  font-size: 13px;
+  text-align: center;
+  margin: 0rem 0.5rem;
+}
+.PageContainer {
+  width: 1000px;
+  height: 100%;
+}
+.icon {
+  width: 80%;
+  margin-left: 8%;
+  display: flex;
+  justify-content: center;
+}
+.header2 {
+  background-color: white;
+  margin-left: 10rem;
+  box-shadow: -2px 6px 19px 0px rgba(10, 9, 9, 0.53);
+  width: 80%;
+  height: 32rem;
+
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  width: 26rem;
+  height: 1.5rem;
+  font-size: 10px;
+  border-radius: 20% / 0%;
+  margin-top: 1rem;
+  margin-right: 20rem;
+  background-color: rgb(85 185 179);
+}
+.test2 {
+  width: 5rem;
+  height: 5rem;
+}
+.test3 {
+  width: 5rem;
+  height: 5rem;
+}
+.test4 {
+  width: 5rem;
+  height: 5rem;
+}
+.word3 {
+  width: 20%;
+  font-size: 1rem;
+  font: caption;
+}
+.word4 {
+  justify-content: center;
+  width: 2rem;
+  margin-bottom: 10rem;
+  cursor: pointer;
+  height: 1rem;
+  padding-top: 1rem;
+}

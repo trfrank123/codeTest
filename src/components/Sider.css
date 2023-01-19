@@ -1,0 +1,13 @@
+.Sider{
+ width: 6rem;
+ height: 100vh;
+ padding-top: 1rem;
+display: flex;
+ background-color:rgb(85 185 179);
+justify-content: center;
+position: sticky;
+}
+.icon2{
+    width: 2rem;
+    cursor: pointer;
+}
